@@ -4,3 +4,4 @@ SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' (
   SELECT * FROM grades (вывод всех оценок)
   SELECT * FROM users JOIN grades (вывод пользователей и их оценок)
   SELECT * FROM users WHERE name = "Олег" (найти колво записей с именем Олег)
+САЙТ loki395.wordpress.com
