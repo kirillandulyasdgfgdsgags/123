@@ -16,3 +16,5 @@ $$ W_c=\frac{CU^2}{2} $$
 $$ V=\sqrt{\frac{GM}{R}} $$
 
 $$ q=CU $$
+
+https://deepnote.com/@yulya-levchenko
