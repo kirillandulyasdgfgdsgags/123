@@ -10,3 +10,9 @@ SELECT * FROM users JOIN grades (вывод пользователей и их �
 SELECT * FROM users WHERE name = "Олег" (найти колво записей с именем Олег)
 
 САЙТ loki395.wordpress.com
+
+$$ W_c=\frac{CU^2}{2} $$
+
+$$ V=\sqrt{\frac{GM}{R}} $$
+
+$$ q=CU $$
