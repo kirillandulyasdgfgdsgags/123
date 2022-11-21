@@ -18,3 +18,4 @@ $$ V=\sqrt{\frac{GM}{R}} $$
 $$ q=CU $$
 
 https://deepnote.com/@yulya-levchenko
+![image](https://user-images.githubusercontent.com/114376682/202962562-a3036b3c-d1e4-455e-b094-2496f139eabc.png)
