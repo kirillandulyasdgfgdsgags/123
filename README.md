@@ -19,4 +19,5 @@ $$ V=\sqrt{\frac{GM}{R}} $$
 $$ q=CU $$
 
 https://deepnote.com/@yulya-levchenko
-![image](https://user-images.githubusercontent.com/114376682/202962562-a3036b3c-d1e4-455e-b094-2496f139eabc.png)
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP_JmE2A=/?moveToViewport=-1178,-362,1926,972&embedId=767252171146" frameborder="0" scrolling="no" allowfullscreen></iframe>
