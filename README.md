@@ -1,4 +1,4 @@
-# kirillandulyasdgfgdsgags.githab.io
+# kirillandulyasdgfgdsgags.github.io
 
 SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' (колво таблиц)
 
