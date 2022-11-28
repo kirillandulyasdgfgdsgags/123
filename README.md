@@ -1,4 +1,5 @@
-# 123 описание файлов Левченко
+# kirillandulyasdgfgdsgags.githab.io
+
 SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' (колво таблиц)
 
 SELECT * FROM users (вывод всех пьзователей)
