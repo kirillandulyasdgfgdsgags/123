@@ -1,6 +1,5 @@
 # kirillandulyasdgfgdsgags.github.io
 
-https://user-images.githubusercontent.com/114549805/206494406-12c6df1f-28d7-4469-b92e-c3b9966bac5c.jpg
 
 SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' (колво таблиц)
 
