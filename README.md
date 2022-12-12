@@ -1,5 +1,7 @@
 # kirillandulyasdgfgdsgags.github.io
 
+![image](https://user-images.githubusercontent.com/114376682/206955313-48367036-7a2a-4985-b9a4-4eac59438464.png)
+
 
 SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' (колво таблиц)
 
